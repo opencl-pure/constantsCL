@@ -1,3 +1,3 @@
-module github.com/opencl-pure/constantCL
+module constantCL
 
 go 1.18
